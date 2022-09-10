@@ -1,0 +1,40 @@
+/** {
+	border: 1px dashed red;
+	min-height: 10px;
+}*/
+
+body{
+	background-color: #F7F7F7;
+}
+
+header{
+	text-align: center;
+	background: white;
+	
+}
+
+.posts{
+	margin: auto;
+	margin-bottom: 50px;
+  	width: 50%;
+	padding: none;
+	background-color: white;
+	display: block;
+	background-size: 100%;
+}
+
+.post-title{
+	text-align: left;
+	padding: 10px;
+	font-weight: bolder
+}
+
+.post-image img{
+	width: 100%;
+	height: 100%;
+}
+
+.post-description p{
+	padding: 10px;
+
+}
